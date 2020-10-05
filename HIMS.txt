@@ -1,0 +1,9 @@
+Welcome to HIMS project(Health Information Management System Project). It is done by group.The group consists of 16 members.
+The project covers:-
+   1) problem definition 
+   2) business requirement definition 
+   3) evaluation 
+   4) design 
+   5) Testing 
+   6) Implementation 
+  
