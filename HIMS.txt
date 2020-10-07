@@ -5,5 +5,10 @@ The project covers:-
    3) evaluation 
    4) design 
    5) Testing 
-   6) Implementation 
-  
+   6) Implementation
+   7) View
+   8) Store Procedures 
+   9) Functions 
+P.S The last three might be included in Testing.
+   
+
